@@ -37,4 +37,4 @@ Run requirements.txt
 
 #
 COnvert ui file to .py
-#     pyuic6 -c file_name.ui -o file_name.py
+#     pyuic6 -x file_name.ui -o file_name.py
