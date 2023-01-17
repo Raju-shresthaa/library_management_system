@@ -1,3 +1,4 @@
     PyQt6
     pyqt5-tools
     PyQt5Designer
+    mysqlclient
